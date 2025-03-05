@@ -1,0 +1,616 @@
+Country,Year,Value
+Albania,2008,144
+Albania,2009,169
+Albania,2010,236
+Albania,2011,268.0
+Albania,2012,326.0
+Albania,2013,371
+Albania,2014,297
+Albania,2015,234
+Albania,2016,159.0
+Albania,2017,183.0
+Albania,2018,133
+Albania,2019,98
+Albania,2020,82
+Albania,2021,80
+Albania,2022,78
+Austria,2008,4786
+Austria,2009,4577
+Austria,2010,4310
+Austria,2011,4066.0
+Austria,2012,4092.0
+Austria,2013,3737
+Austria,2014,3481
+Austria,2015,3416
+Austria,2016,3103.0
+Austria,2017,2610.0
+Austria,2018,2396
+Austria,2019,2628
+Austria,2020,2137
+Austria,2021,2118
+Austria,2022,2536
+Belgium,2008,22877
+Belgium,2009,23581
+Belgium,2010,23856
+Belgium,2011,27341.0
+Belgium,2012,25608.0
+Belgium,2013,22879
+Belgium,2014,21928
+Belgium,2015,20278
+Belgium,2016,18678.0
+Belgium,2017,17645.0
+Belgium,2018,16483
+Belgium,2019,16297
+Belgium,2020,11869
+Belgium,2021,11567
+Belgium,2022,12126
+Bosnia and Herzegovina,2008,746
+Bosnia and Herzegovina,2009,:
+Bosnia and Herzegovina,2010,:
+Bosnia and Herzegovina,2011,975.0
+Bosnia and Herzegovina,2012,1010.0
+Bosnia and Herzegovina,2013,1103
+Bosnia and Herzegovina,2014,1025
+Bosnia and Herzegovina,2015,111
+Bosnia and Herzegovina,2016,1015.0
+Bosnia and Herzegovina,2017,660.0
+Bosnia and Herzegovina,2018,:
+Bosnia and Herzegovina,2019,660
+Bosnia and Herzegovina,2020,520
+Bosnia and Herzegovina,2021,416
+Bosnia and Herzegovina,2022,405
+Bulgaria,2008,2868
+Bulgaria,2009,3596
+Bulgaria,2010,3737
+Bulgaria,2011,3110.0
+Bulgaria,2012,2955.0
+Bulgaria,2013,2977
+Bulgaria,2014,2326
+Bulgaria,2015,1946
+Bulgaria,2016,1666.0
+Bulgaria,2017,1558.0
+Bulgaria,2018,1265
+Bulgaria,2019,1183
+Bulgaria,2020,1002
+Bulgaria,2021,840
+Bulgaria,2022,902
+Croatia,2008,1259
+Croatia,2009,1411
+Croatia,2010,1245
+Croatia,2011,1382.0
+Croatia,2012,1588.0
+Croatia,2013,1523
+Croatia,2014,1268
+Croatia,2015,1311
+Croatia,2016,1068.0
+Croatia,2017,864.0
+Croatia,2018,779
+Croatia,2019,838
+Croatia,2020,632
+Croatia,2021,604
+Croatia,2022,708
+Cyprus,2008,71
+Cyprus,2009,142
+Cyprus,2010,156
+Cyprus,2011,137.0
+Cyprus,2012,173.0
+Cyprus,2013,149
+Cyprus,2014,104
+Cyprus,2015,78
+Cyprus,2016,93.0
+Cyprus,2017,103.0
+Cyprus,2018,73
+Cyprus,2019,55
+Cyprus,2020,78
+Cyprus,2021,68
+Cyprus,2022,96
+Czechia,2008,4641
+Czechia,2009,4687
+Czechia,2010,4019
+Czechia,2011,3881.0
+Czechia,2012,3416.0
+Czechia,2013,3051
+Czechia,2014,2547
+Czechia,2015,2022
+Czechia,2016,1646.0
+Czechia,2017,1585.0
+Czechia,2018,1406
+Czechia,2019,1439
+Czechia,2020,1248
+Czechia,2021,1230
+Czechia,2022,1422
+Denmark,2008,3400
+Denmark,2009,4004
+Denmark,2010,3372
+Denmark,2011,3241.0
+Denmark,2012,3003.0
+Denmark,2013,3200
+Denmark,2014,2322
+Denmark,2015,2034
+Denmark,2016,2185.0
+Denmark,2017,2042.0
+Denmark,2018,1819
+Denmark,2019,1698
+Denmark,2020,1635
+Denmark,2021,1287
+Denmark,2022,1406
+England and Wales,2008,80130
+England and Wales,2009,75105
+England and Wales,2010,76189
+England and Wales,2011,74688.0
+England and Wales,2012,65155.0
+England and Wales,2013,57828
+England and Wales,2014,50153
+England and Wales,2015,51133
+England and Wales,2016,59332.0
+England and Wales,2017,77089.0
+England and Wales,2018,:
+England and Wales,2019,:
+England and Wales,2020,:
+England and Wales,2021,:
+England and Wales,2022,:
+Estonia,2008,909
+Estonia,2009,726
+Estonia,2010,599
+Estonia,2011,525.0
+Estonia,2012,457.0
+Estonia,2013,476
+Estonia,2014,360
+Estonia,2015,337
+Estonia,2016,248.0
+Estonia,2017,201.0
+Estonia,2018,170
+Estonia,2019,152
+Estonia,2020,113
+Estonia,2021,129
+Estonia,2022,98
+Finland,2008,1696
+Finland,2009,1640
+Finland,2010,1508
+Finland,2011,1622.0
+Finland,2012,1616.0
+Finland,2013,1523
+Finland,2014,1687
+Finland,2015,1548
+Finland,2016,1670.0
+Finland,2017,1640.0
+Finland,2018,1700
+Finland,2019,1805
+Finland,2020,1995
+Finland,2021,1892
+Finland,2022,2329
+France,2008,106633
+France,2009,112765
+France,2010,121038
+France,2011,120966.0
+France,2012,123814.0
+France,2013,124657
+France,2014,114093
+France,2015,104116
+France,2016,105636.0
+France,2017,99558.0
+France,2018,91953
+France,2019,89966
+France,2020,74190
+France,2021,70502
+France,2022,68000
+Germany,2008,49913
+Germany,2009,49317
+Germany,2010,48166
+Germany,2011,48021.0
+Germany,2012,48711.0
+Germany,2013,47234
+Germany,2014,45475
+Germany,2015,44666
+Germany,2016,43009.0
+Germany,2017,38849.0
+Germany,2018,36756
+Germany,2019,36052
+Germany,2020,33872
+Germany,2021,30125
+Germany,2022,38195
+Greece,2008,3293
+Greece,2009,4715
+Greece,2010,6079
+Greece,2011,6636.0
+Greece,2012,5992.0
+Greece,2013,4919
+Greece,2014,3800
+Greece,2015,4316
+Greece,2016,4738.0
+Greece,2017,4271.0
+Greece,2018,4358
+Greece,2019,4335
+Greece,2020,2541
+Greece,2021,2403
+Greece,2022,2833
+Hungary,2008,3128
+Hungary,2009,3159
+Hungary,2010,3396
+Hungary,2011,3203.0
+Hungary,2012,3036.0
+Hungary,2013,2298
+Hungary,2014,1954
+Hungary,2015,1440
+Hungary,2016,1104.0
+Hungary,2017,841.0
+Hungary,2018,696
+Hungary,2019,633
+Hungary,2020,608
+Hungary,2021,541
+Hungary,2022,533
+Iceland,2008,43
+Iceland,2009,60
+Iceland,2010,42
+Iceland,2011,42.0
+Iceland,2012,50.0
+Iceland,2013,49
+Iceland,2014,51
+Iceland,2015,53
+Iceland,2016,50.0
+Iceland,2017,49.0
+Iceland,2018,77
+Iceland,2019,54
+Iceland,2020,75
+Iceland,2021,60
+Iceland,2022,66
+Ireland,2008,2328
+Ireland,2009,2522
+Ireland,2010,3234
+Ireland,2011,2954.0
+Ireland,2012,2811.0
+Ireland,2013,2795
+Ireland,2014,2650
+Ireland,2015,2424
+Ireland,2016,1955.0
+Ireland,2017,2018.0
+Ireland,2018,2179
+Ireland,2019,2036
+Ireland,2020,1402
+Ireland,2021,1172
+Ireland,2022,1408
+Italy,2008,64535
+Italy,2009,50732
+Italy,2010,47996
+Italy,2011,58206.0
+Italy,2012,62641.0
+Italy,2013,63770
+Italy,2014,39236
+Italy,2015,35086
+Italy,2016,33422.0
+Italy,2017,31167.0
+Italy,2018,28986
+Italy,2019,24821
+Italy,2020,20479
+Italy,2021,22537
+Italy,2022,26181
+Kosovo*,2008,421
+Kosovo*,2009,586
+Kosovo*,2010,566
+Kosovo*,2011,629.0
+Kosovo*,2012,527.0
+Kosovo*,2013,510
+Kosovo*,2014,446
+Kosovo*,2015,284
+Kosovo*,2016,288.0
+Kosovo*,2017,306.0
+Kosovo*,2018,322
+Kosovo*,2019,205
+Kosovo*,2020,167
+Kosovo*,2021,171
+Kosovo*,2022,:
+Latvia,2008,1441
+Latvia,2009,1516
+Latvia,2010,1072
+Latvia,2011,1047.0
+Latvia,2012,943.0
+Latvia,2013,917
+Latvia,2014,809
+Latvia,2015,779
+Latvia,2016,651.0
+Latvia,2017,604.0
+Latvia,2018,534
+Latvia,2019,493
+Latvia,2020,435
+Latvia,2021,263
+Latvia,2022,280
+Liechtenstein,2008,1
+Liechtenstein,2009,2
+Liechtenstein,2010,2
+Liechtenstein,2011,1.0
+Liechtenstein,2012,5.0
+Liechtenstein,2013,1
+Liechtenstein,2014,1
+Liechtenstein,2015,3
+Liechtenstein,2016,4.0
+Liechtenstein,2017,2.0
+Liechtenstein,2018,2
+Liechtenstein,2019,2
+Liechtenstein,2020,4
+Liechtenstein,2021,2
+Liechtenstein,2022,2
+Lithuania,2008,3452
+Lithuania,2009,3363
+Lithuania,2010,2727
+Lithuania,2011,2502.0
+Lithuania,2012,1923.0
+Lithuania,2013,1866
+Lithuania,2014,1688
+Lithuania,2015,1590
+Lithuania,2016,1342.0
+Lithuania,2017,1088.0
+Lithuania,2018,822
+Lithuania,2019,665
+Lithuania,2020,479
+Lithuania,2021,310
+Lithuania,2022,342
+Luxembourg,2008,326
+Luxembourg,2009,418
+Luxembourg,2010,377
+Luxembourg,2011,398.0
+Luxembourg,2012,527.0
+Luxembourg,2013,582
+Luxembourg,2014,615
+Luxembourg,2015,554
+Luxembourg,2016,459.0
+Luxembourg,2017,454.0
+Luxembourg,2018,449
+Luxembourg,2019,457
+Luxembourg,2020,472
+Luxembourg,2021,595
+Luxembourg,2022,652
+Malta,2008,147
+Malta,2009,202
+Malta,2010,196
+Malta,2011,219.0
+Malta,2012,257.0
+Malta,2013,207
+Malta,2014,190
+Malta,2015,242
+Malta,2016,259.0
+Malta,2017,202.0
+Malta,2018,208
+Malta,2019,174
+Malta,2020,128
+Malta,2021,101
+Malta,2022,132
+Montenegro,2008,6
+Montenegro,2009,7
+Montenegro,2010,3
+Montenegro,2011,144.0
+Montenegro,2012,117.0
+Montenegro,2013,161
+Montenegro,2014,188
+Montenegro,2015,156
+Montenegro,2016,128.0
+Montenegro,2017,118.0
+Montenegro,2018,123
+Montenegro,2019,95
+Montenegro,2020,48
+Montenegro,2021,58
+Montenegro,2022,47
+Netherlands,2008,13175
+Netherlands,2009,16265
+Netherlands,2010,16290
+Netherlands,2011,15585.0
+Netherlands,2012,14940.0
+Netherlands,2013,13345
+Netherlands,2014,10450
+Netherlands,2015,9730
+Netherlands,2016,8980.0
+Netherlands,2017,7975.0
+Netherlands,2018,7785
+Netherlands,2019,8590
+Netherlands,2020,7305
+Netherlands,2021,5545
+Netherlands,2022,5955
+North Macedonia,2008,458
+North Macedonia,2009,597
+North Macedonia,2010,604
+North Macedonia,2011,513.0
+North Macedonia,2012,469.0
+North Macedonia,2013,468
+North Macedonia,2014,305
+North Macedonia,2015,278
+North Macedonia,2016,248.0
+North Macedonia,2017,417.0
+North Macedonia,2018,:
+North Macedonia,2019,383
+North Macedonia,2020,264
+North Macedonia,2021,275
+North Macedonia,2022,322
+Northern Ireland (UK) (NUTS 2021),2008,1149
+Northern Ireland (UK) (NUTS 2021),2009,1315
+Northern Ireland (UK) (NUTS 2021),2010,1349
+Northern Ireland (UK) (NUTS 2021),2011,1269.0
+Northern Ireland (UK) (NUTS 2021),2012,1040.0
+Northern Ireland (UK) (NUTS 2021),2013,969
+Northern Ireland (UK) (NUTS 2021),2014,906
+Northern Ireland (UK) (NUTS 2021),2015,810
+Northern Ireland (UK) (NUTS 2021),2016,673.0
+Northern Ireland (UK) (NUTS 2021),2017,567.0
+Northern Ireland (UK) (NUTS 2021),2018,621
+Northern Ireland (UK) (NUTS 2021),2019,:
+Northern Ireland (UK) (NUTS 2021),2020,:
+Northern Ireland (UK) (NUTS 2021),2021,:
+Northern Ireland (UK) (NUTS 2021),2022,:
+Norway,2008,1598
+Norway,2009,1776
+Norway,2010,1687
+Norway,2011,1623.0
+Norway,2012,1484.0
+Norway,2013,1667
+Norway,2014,1063
+Norway,2015,930
+Norway,2016,810.0
+Norway,2017,781.0
+Norway,2018,788
+Norway,2019,881
+Norway,2020,958
+Norway,2021,766
+Norway,2022,904
+Poland,2008,21085
+Poland,2009,19267
+Poland,2010,19359
+Poland,2011,17729.0
+Poland,2012,16685.0
+Poland,2013,19533
+Poland,2014,13868
+Poland,2015,10210
+Poland,2016,9634.0
+Poland,2017,8114.0
+Poland,2018,6801
+Poland,2019,6473
+Poland,2020,5288
+Poland,2021,4874
+Poland,2022,4832
+Portugal,2008,20854
+Portugal,2009,20472
+Portugal,2010,20442
+Portugal,2011,20372.0
+Portugal,2012,18514.0
+Portugal,2013,16590
+Portugal,2014,15594
+Portugal,2015,15472
+Portugal,2016,13313.0
+Portugal,2017,11885.0
+Portugal,2018,10545
+Portugal,2019,10926
+Portugal,2020,8976
+Portugal,2021,7894
+Portugal,2022,8808
+Romania,2008,2464
+Romania,2009,2541
+Romania,2010,2484
+Romania,2011,2251.0
+Romania,2012,3193.0
+Romania,2013,2933
+Romania,2014,6418
+Romania,2015,3358
+Romania,2016,3096.0
+Romania,2017,3163.0
+Romania,2018,3275
+Romania,2019,3466
+Romania,2020,3849
+Romania,2021,3412
+Romania,2022,3070
+Scotland (NUTS 2021),2008,2963
+Scotland (NUTS 2021),2009,2496
+Scotland (NUTS 2021),2010,2557
+Scotland (NUTS 2021),2011,2244.0
+Scotland (NUTS 2021),2012,1832.0
+Scotland (NUTS 2021),2013,1499
+Scotland (NUTS 2021),2014,1497
+Scotland (NUTS 2021),2015,1327
+Scotland (NUTS 2021),2016,1435.0
+Scotland (NUTS 2021),2017,1556.0
+Scotland (NUTS 2021),2018,1807
+Scotland (NUTS 2021),2019,:
+Scotland (NUTS 2021),2020,:
+Scotland (NUTS 2021),2021,:
+Scotland (NUTS 2021),2022,:
+Serbia,2008,4082
+Serbia,2009,4593
+Serbia,2010,3620
+Serbia,2011,3548.0
+Serbia,2012,3791.0
+Serbia,2013,3852
+Serbia,2014,3232
+Serbia,2015,3034
+Serbia,2016,2422.0
+Serbia,2017,1829.0
+Serbia,2018,1597
+Serbia,2019,1247
+Serbia,2020,846
+Serbia,2021,807
+Serbia,2022,717
+Slovakia,2008,1371
+Slovakia,2009,1358
+Slovakia,2010,1188
+Slovakia,2011,851.0
+Slovakia,2012,974.0
+Slovakia,2013,835
+Slovakia,2014,680
+Slovakia,2015,539
+Slovakia,2016,526.0
+Slovakia,2017,468.0
+Slovakia,2018,475
+Slovakia,2019,410
+Slovakia,2020,325
+Slovakia,2021,289
+Slovakia,2022,313
+Slovenia,2008,386
+Slovenia,2009,481
+Slovenia,2010,463
+Slovenia,2011,403.0
+Slovenia,2012,391.0
+Slovenia,2013,377
+Slovenia,2014,297
+Slovenia,2015,232
+Slovenia,2016,226.0
+Slovenia,2017,238.0
+Slovenia,2018,322
+Slovenia,2019,314
+Slovenia,2020,255
+Slovenia,2021,222
+Slovenia,2022,215
+Spain,2008,71421
+Spain,2009,65159
+Spain,2010,84411
+Spain,2011,87718.0
+Spain,2012,96607.0
+Spain,2013,86034
+Spain,2014,70855
+Spain,2015,64581
+Spain,2016,62952.0
+Spain,2017,61763.0
+Spain,2018,60295
+Spain,2019,65874
+Spain,2020,45263
+Spain,2021,53073
+Spain,2022,63392
+Sweden,2008,8909
+Sweden,2009,9570
+Sweden,2010,9219
+Sweden,2011,9719.0
+Sweden,2012,9213.0
+Sweden,2013,8361
+Sweden,2014,8364
+Sweden,2015,8461
+Sweden,2016,8562.0
+Sweden,2017,8649.0
+Sweden,2018,8646
+Sweden,2019,9035
+Sweden,2020,8812
+Sweden,2021,7301
+Sweden,2022,6483
+Switzerland,2008,2890
+Switzerland,2009,3530
+Switzerland,2010,2853
+Switzerland,2011,3113.0
+Switzerland,2012,3603.0
+Switzerland,2013,3196
+Switzerland,2014,2367
+Switzerland,2015,1859
+Switzerland,2016,1876.0
+Switzerland,2017,1746.0
+Switzerland,2018,1644
+Switzerland,2019,1872
+Switzerland,2020,1949
+Switzerland,2021,1736
+Switzerland,2022,1941
+Türkiye,2008,:
+Türkiye,2009,8698
+Türkiye,2010,8581
+Türkiye,2011,9662.0
+Türkiye,2012,10303.0
+Türkiye,2013,:
+Türkiye,2014,:
+Türkiye,2015,:
+Türkiye,2016,10892.0
+Türkiye,2017,12171.0
+Türkiye,2018,10993
+Türkiye,2019,10897
+Türkiye,2020,11243
+Türkiye,2021,13228
+Türkiye,2022,15678

@@ -1,0 +1,18 @@
+import pandas as pd
+
+# Read the CSV file
+df = pd.read_csv('merged_crimes_number_french.csv')
+
+# Display the first few rows of the data
+print(df.head())
+
+#total de crimes par nombre de chaque pays
+total_per_per_crimes_per_country = df.groupby('Country')['Value'].sum().reset_index()
+print(total_per_per_crimes_per_country)
+
+#prend aussi les valeurs Country,FIPS,ISO2,ISO3,UN,NAME,lat,lon
+total_per_per_crimes_per_country = pd.merge(total_per_per_crimes_per_country, df[['Country', 'FIPS', 'ISO2', 'ISO3', 'UN', 'NAME', 'lat', 'lon']], on='Country', how='left').drop_duplicates()
+
+
+#sauvegarder en csv
+total_per_per_crimes_per_country.to_csv('total_per_per_crimes_per_country.csv', index=False)
